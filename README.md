@@ -16,6 +16,10 @@
 
 ![Twist Eat Wire Frame](assets/images/twist-eat-wireframe.png)
 
+## Presentation
+
+https://docs.google.com/presentation/d/1qDpQ5rLg2UNgWCKKzsLox3AEiFWDqgFKgACtcj8vgDk/edit?usp=sharing
+
 ## Demo
 
 ![Twist Eat Demo](assets/images/gif-twist-eat.gif)
